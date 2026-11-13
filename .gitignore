@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+venv/
+.idea/
+static/uploads/*
+!static/uploads/.gitkeep
+*.h5
