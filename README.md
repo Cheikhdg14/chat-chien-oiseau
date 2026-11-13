@@ -1,4 +1,4 @@
-# Chat, chien ou oiseau ? — Flask + EfficientNetB0
+# Chat, chien ou oiseau ? — Flask
 
 Application web Flask qui identifie un **chat**, un **chien** ou un **oiseau** sur une photo.
 Le modèle (EfficientNetB0 pré-entraîné sur ImageNet, *transfer learning*) est entraîné sur Kaggle
